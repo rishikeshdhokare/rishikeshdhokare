@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Rishikesh! I am software engineer currently working with a fashion tech @zalando in Berlin, Germany.
+I am Rishikesh! I am software engineer currently working with a fashion tech company https://www.zalando.de/ in Berlin, Germany.
 
 - 🔭 I’m currently working on personal app idea in finance domain (in my free time)
 - 👯 I’m looking to collaborate with frontend engineers passionate about building platform products end to end with React, React Native.
